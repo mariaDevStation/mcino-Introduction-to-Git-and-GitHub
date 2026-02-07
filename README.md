@@ -4,6 +4,9 @@ Getting Started with Git and GitHub – Practical Labs
 
 * Forked repositories and managed independent development workflows using feature branches
 
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bb7cb3ec-7dcb-4d30-995e-2074695d2bdc" />
+
+
 * Created, committed, and pushed changes using Git CLI following GitHub best practices
 
 * Merged feature branches into main and validated merge results via terminal output
@@ -22,6 +25,7 @@ Getting Started with Git and GitHub – Practical Labs
 
 Tools & Technologies:
 Git · GitHub · GitHub API · Pull Requests · Branching & Merging · CLI · Linux · curl · jq
+
 
 
 # Introduction to Git and GitHub
